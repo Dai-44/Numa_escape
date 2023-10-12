@@ -8,3 +8,10 @@ ja:
     create:
       success: 'ユーザー登録が完了しました'
       fail: 'ユーザー登録に失敗しました'
+  sessions:
+    new:
+      title: 'ログインページ'
+      login: 'ログイン'
+    create:
+      success: 'ログインに成功しました'
+      fail: 'ログインに失敗しました'

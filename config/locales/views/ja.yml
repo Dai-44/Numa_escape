@@ -15,3 +15,5 @@ ja:
     create:
       success: 'ログインに成功しました'
       fail: 'ログインに失敗しました'
+    destory:
+      success: 'ログアウトしました'
